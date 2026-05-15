@@ -1,4 +1,3 @@
-import { notFound } from 'next/navigation';
 import { getRequestConfig } from 'next-intl/server';
 
 export const locales = ['ar', 'en', 'fr', 'de', 'it', 'ru', 'tr'] as const;
@@ -19,10 +18,14 @@ export const localeMeta: Record<
   tr: { label: 'Turkish', native: 'Türkçe', flag: '🇹🇷', dir: 'ltr' }
 };
 
-export default getRequestConfig(async ({ locale }) => {
-  if (!locales.includes(locale as Locale)) notFound();
+export default getRequestConfig(async ({ requestLocale }) => {
+  // next-intl 3.22+ — `requestLocale` is the recommended API (replaces `locale`).
+  let locale = await requestLocale;
+  if (!locale || !locales.includes(locale as Locale)) {
+    locale = defaultLocale;
+  }
   return {
-    locale: locale as Locale,
+    locale,
     messages: (await import(`../messages/${locale}.json`)).default
   };
 });
