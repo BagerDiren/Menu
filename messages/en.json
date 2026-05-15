@@ -1,0 +1,123 @@
+{
+  "splash": {
+    "tagline": "A Royal Taste of Ancient Egypt",
+    "subtitle": "A refined take on modern Egyptian cuisine",
+    "enter": "Discover the Menu",
+    "poweredBy": "Anubis · AI"
+  },
+  "nav": {
+    "menu": "Menu",
+    "ai": "Ask Anubis AI",
+    "back": "Back",
+    "language": "Language",
+    "feast": "My Feast"
+  },
+  "categories": {
+    "starters": "Mezze & Starters",
+    "soups": "Soups",
+    "mains": "Mains",
+    "grills": "From the Grill",
+    "seafood": "From the Nile & Sea",
+    "desserts": "Desserts",
+    "drinks": "Drinks"
+  },
+  "dish": {
+    "addToFavourites": "Keep for later",
+    "viewDetails": "Lift the silver dome",
+    "addToFeast": "Begin the feast",
+    "removeFromFeast": "Send it back",
+    "inFeast": "On your table",
+    "calories": "kcal",
+    "protein": "Protein",
+    "carbs": "Carbs",
+    "fat": "Fat",
+    "fiber": "Fiber",
+    "sodium": "Sodium",
+    "nutrition": "Nutrition (per serving)",
+    "allergens": "Contains allergens",
+    "noAllergens": "No major allergens",
+    "spiceLevel": "Spice level",
+    "prepTime": "Prep time",
+    "minutes": "min",
+    "chefNote": "Chef’s note",
+    "ingredients": "Ingredients",
+    "readStory": "Read the story",
+    "price": "EGP"
+  },
+  "allergens": {
+    "gluten": "Gluten",
+    "dairy": "Dairy",
+    "eggs": "Eggs",
+    "nuts": "Tree nuts",
+    "sesame": "Sesame",
+    "soy": "Soy",
+    "fish": "Fish",
+    "shellfish": "Shellfish",
+    "mustard": "Mustard"
+  },
+  "tags": {
+    "vegetarian": "Vegetarian",
+    "vegan": "Vegan",
+    "halal": "Halal",
+    "spicy": "Spicy",
+    "chef_pick": "Chef’s Pick",
+    "gluten_free": "Gluten-Free"
+  },
+  "moods": {
+    "title": "How do you feel?",
+    "light": "Something light",
+    "spicy": "Spice festival",
+    "sweet": "Sweet craving",
+    "classic": "Classic Egypt",
+    "quick": "I’m in a hurry",
+    "protein": "Power plate"
+  },
+  "story": {
+    "title": "The Story",
+    "close": "Close the scroll",
+    "noStory": "An untold story — soon to be added.",
+    "discover": "Tap to discover the origin"
+  },
+  "feast": {
+    "title": "Your Feast Table",
+    "empty": "The linen is folded, the candles lit — your table awaits its first plate.",
+    "total": "To pay",
+    "items": "plates",
+    "calories": "Total calories",
+    "clear": "Reset the table",
+    "callServer": "Close the bill",
+    "summary": "Tap a plate to return it to the kitchen"
+  },
+  "journey": {
+    "title": "Ingredient Journey",
+    "from": "From"
+  },
+  "pairing": {
+    "header": "You must try this with",
+    "whisper": "An old Egyptian wisdom — let the chef pair it for you."
+  },
+  "ai": {
+    "title": "Anubis — Your Menu Guide",
+    "subtitle": "Tell me what you’re in the mood for. I’ll choose your perfect dish.",
+    "placeholder": "e.g. ‘Something light, no dairy, not spicy’",
+    "send": "Ask",
+    "thinking": "Anubis is consulting the chefs…",
+    "errorGeneric": "The oracle is silent — please try again.",
+    "errorNoKey": "AI is not configured. Add ANTHROPIC_API_KEY in .env.local to enable Anubis.",
+    "quickPrompts": {
+      "vegan": "I’m vegan",
+      "light": "Something light",
+      "spicy": "Surprise me with something spicy",
+      "traditional": "Most traditional Egyptian dish"
+    },
+    "suggestion": "Anubis suggests"
+  },
+  "filters": {
+    "all": "All",
+    "filters": "Filters",
+    "diet": "Diet",
+    "allergensExclude": "Exclude allergens",
+    "clear": "Clear",
+    "apply": "Apply"
+  }
+}

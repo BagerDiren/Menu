@@ -1,0 +1,123 @@
+{
+  "splash": {
+    "tagline": "Königlicher Geschmack des alten Ägypten",
+    "subtitle": "Eine raffinierte Interpretation moderner ägyptischer Küche",
+    "enter": "Speisekarte entdecken",
+    "poweredBy": "Anubis · KI"
+  },
+  "nav": {
+    "menu": "Karte",
+    "ai": "Anubis fragen",
+    "back": "Zurück",
+    "language": "Sprache",
+    "feast": "Meine Tafel"
+  },
+  "categories": {
+    "starters": "Mezze & Vorspeisen",
+    "soups": "Suppen",
+    "mains": "Hauptgerichte",
+    "grills": "Vom Grill",
+    "seafood": "Aus Nil & Meer",
+    "desserts": "Desserts",
+    "drinks": "Getränke"
+  },
+  "dish": {
+    "addToFavourites": "Im Sinn behalten",
+    "viewDetails": "Die Cloche heben",
+    "addToFeast": "Das Festmahl beginnen",
+    "removeFromFeast": "Zurück in die Küche",
+    "inFeast": "An Ihrer Tafel",
+    "calories": "kcal",
+    "protein": "Eiweiß",
+    "carbs": "Kohlenhydrate",
+    "fat": "Fett",
+    "fiber": "Ballaststoffe",
+    "sodium": "Natrium",
+    "nutrition": "Nährwerte (pro Portion)",
+    "allergens": "Enthält Allergene",
+    "noAllergens": "Keine Hauptallergene",
+    "spiceLevel": "Schärfe",
+    "prepTime": "Zubereitung",
+    "minutes": "Min",
+    "chefNote": "Notiz des Küchenchefs",
+    "ingredients": "Zutaten",
+    "readStory": "Geschichte lesen",
+    "price": "EGP"
+  },
+  "allergens": {
+    "gluten": "Gluten",
+    "dairy": "Milcherzeugnisse",
+    "eggs": "Eier",
+    "nuts": "Schalenfrüchte",
+    "sesame": "Sesam",
+    "soy": "Soja",
+    "fish": "Fisch",
+    "shellfish": "Schalentiere",
+    "mustard": "Senf"
+  },
+  "tags": {
+    "vegetarian": "Vegetarisch",
+    "vegan": "Vegan",
+    "halal": "Halal",
+    "spicy": "Scharf",
+    "chef_pick": "Empfehlung des Küchenchefs",
+    "gluten_free": "Glutenfrei"
+  },
+  "moods": {
+    "title": "Wie fühlen Sie sich gerade?",
+    "light": "Etwas Leichtes",
+    "spicy": "Gewürz-Festival",
+    "sweet": "Süßes Verlangen",
+    "classic": "Klassisches Ägypten",
+    "quick": "Ich habe es eilig",
+    "protein": "Kraft-Teller"
+  },
+  "story": {
+    "title": "Die Geschichte",
+    "close": "Papyrus schließen",
+    "noStory": "Eine noch nicht erzählte Geschichte — bald.",
+    "discover": "Tippen, um den Ursprung zu entdecken"
+  },
+  "feast": {
+    "title": "Ihre Festtafel",
+    "empty": "Das Tuch ist gefaltet, die Kerzen brennen — Ihre Tafel wartet auf den ersten Teller.",
+    "total": "Rechnung",
+    "items": "Teller",
+    "calories": "Kalorien gesamt",
+    "clear": "Tafel neu decken",
+    "callServer": "Rechnung schließen",
+    "summary": "Tippen Sie auf einen Teller, um ihn zurückzusenden"
+  },
+  "journey": {
+    "title": "Die Reise der Zutat",
+    "from": "Aus"
+  },
+  "pairing": {
+    "header": "Probieren Sie es unbedingt mit",
+    "whisper": "Eine alte ägyptische Weisheit — der Küchenchef hat es für Sie ausgesucht."
+  },
+  "ai": {
+    "title": "Anubis — Ihr Menü-Guide",
+    "subtitle": "Sagen Sie mir, worauf Sie Lust haben — ich finde Ihr Gericht.",
+    "placeholder": "z. B. „Etwas Leichtes, ohne Milch, nicht scharf“",
+    "send": "Fragen",
+    "thinking": "Anubis berät die Köche…",
+    "errorGeneric": "Das Orakel schweigt — bitte erneut versuchen.",
+    "errorNoKey": "KI nicht konfiguriert. ANTHROPIC_API_KEY in .env.local hinzufügen.",
+    "quickPrompts": {
+      "vegan": "Ich bin Veganer",
+      "light": "Etwas Leichtes",
+      "spicy": "Überrasch mich mit etwas Scharfem",
+      "traditional": "Traditionellstes ägyptisches Gericht"
+    },
+    "suggestion": "Anubis empfiehlt"
+  },
+  "filters": {
+    "all": "Alle",
+    "filters": "Filter",
+    "diet": "Ernährung",
+    "allergensExclude": "Allergene ausschließen",
+    "clear": "Löschen",
+    "apply": "Anwenden"
+  }
+}

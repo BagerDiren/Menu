@@ -1,0 +1,123 @@
+{
+  "splash": {
+    "tagline": "Antik Mısır’dan Kraliyet Lezzetleri",
+    "subtitle": "Modern Mısır mutfağının asil yorumu",
+    "enter": "Menüyü Keşfet",
+    "poweredBy": "Anubis Yapay Zekâ"
+  },
+  "nav": {
+    "menu": "Menü",
+    "ai": "Anubis’e Sor",
+    "back": "Geri",
+    "language": "Dil",
+    "feast": "Ziyafetim"
+  },
+  "categories": {
+    "starters": "Mezeler & Başlangıçlar",
+    "soups": "Çorbalar",
+    "mains": "Ana Yemekler",
+    "grills": "Izgaradan",
+    "seafood": "Nil’den ve Denizden",
+    "desserts": "Tatlılar",
+    "drinks": "İçecekler"
+  },
+  "dish": {
+    "addToFavourites": "Aklımda tut",
+    "viewDetails": "Gümüş kapağı kaldır",
+    "addToFeast": "Ziyafeti başlat",
+    "removeFromFeast": "Mutfağa geri yolla",
+    "inFeast": "Sofrana eklendi",
+    "calories": "kcal",
+    "protein": "Protein",
+    "carbs": "Karbonhidrat",
+    "fat": "Yağ",
+    "fiber": "Lif",
+    "sodium": "Sodyum",
+    "nutrition": "Besin Değeri (porsiyon)",
+    "allergens": "Alerjen içerir",
+    "noAllergens": "Belirgin alerjen yok",
+    "spiceLevel": "Acı seviyesi",
+    "prepTime": "Hazırlanma",
+    "minutes": "dk",
+    "chefNote": "Şefin notu",
+    "ingredients": "Malzemeler",
+    "readStory": "Hikâyeyi oku",
+    "price": "EGP"
+  },
+  "allergens": {
+    "gluten": "Gluten",
+    "dairy": "Süt ürünleri",
+    "eggs": "Yumurta",
+    "nuts": "Sert kabuklu yemiş",
+    "sesame": "Susam",
+    "soy": "Soya",
+    "fish": "Balık",
+    "shellfish": "Kabuklu deniz ürünü",
+    "mustard": "Hardal"
+  },
+  "tags": {
+    "vegetarian": "Vejetaryen",
+    "vegan": "Vegan",
+    "halal": "Helal",
+    "spicy": "Acılı",
+    "chef_pick": "Şef’in Seçimi",
+    "gluten_free": "Glutensiz"
+  },
+  "moods": {
+    "title": "Şu an nasıl hissediyorsun?",
+    "light": "Hafif bir şey",
+    "spicy": "Baharat şöleni",
+    "sweet": "Tatlı krizi",
+    "classic": "Klasik Mısır",
+    "quick": "Acelem var",
+    "protein": "Güç tabağı"
+  },
+  "story": {
+    "title": "Hikâye",
+    "close": "Papirüsü kapat",
+    "noStory": "Henüz anlatılmamış bir hikâye — yakında.",
+    "discover": "Kökeni keşfetmek için dokun"
+  },
+  "feast": {
+    "title": "Ziyafet Masan",
+    "empty": "Keten kıvrıldı, mumlar yandı — masan ilk tabağı bekliyor.",
+    "total": "Hesap",
+    "items": "tabak",
+    "calories": "Toplam kalori",
+    "clear": "Masayı yeniden kur",
+    "callServer": "Hesabı kapatalım",
+    "summary": "Bir tabağa dokun, mutfağa geri gönder"
+  },
+  "journey": {
+    "title": "Malzemenin Yolculuğu",
+    "from": "Geldiği yer"
+  },
+  "pairing": {
+    "header": "Bunu mutlaka şunla deneyin",
+    "whisper": "Eski bir Mısır geleneği — şef sizin için eşleştirdi."
+  },
+  "ai": {
+    "title": "Anubis — Menü Rehberin",
+    "subtitle": "Bana ne istediğini söyle, sana en uygun yemeği bulayım.",
+    "placeholder": "örn. ‘Hafif, sütsüz, acısız bir şey’",
+    "send": "Sor",
+    "thinking": "Anubis aşçılara danışıyor…",
+    "errorGeneric": "Kâhin suskun — lütfen tekrar dene.",
+    "errorNoKey": "Yapay zekâ ayarlanmamış. .env.local içine ANTHROPIC_API_KEY ekle.",
+    "quickPrompts": {
+      "vegan": "Veganım",
+      "light": "Hafif bir şey",
+      "spicy": "Acılı bir şeyle şaşırt",
+      "traditional": "En geleneksel Mısır yemeği"
+    },
+    "suggestion": "Anubis öneriyor"
+  },
+  "filters": {
+    "all": "Hepsi",
+    "filters": "Filtreler",
+    "diet": "Beslenme",
+    "allergensExclude": "Alerjenleri hariç tut",
+    "clear": "Temizle",
+    "apply": "Uygula"
+  }
+}

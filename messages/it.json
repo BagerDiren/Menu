@@ -1,0 +1,123 @@
+{
+  "splash": {
+    "tagline": "Un Sapore Regale dall’Antico Egitto",
+    "subtitle": "Un’interpretazione raffinata della cucina egiziana moderna",
+    "enter": "Scopri il menù",
+    "poweredBy": "Anubis · AI"
+  },
+  "nav": {
+    "menu": "Menù",
+    "ai": "Chiedi ad Anubis",
+    "back": "Indietro",
+    "language": "Lingua",
+    "feast": "La mia tavola"
+  },
+  "categories": {
+    "starters": "Mezze & Antipasti",
+    "soups": "Zuppe",
+    "mains": "Piatti principali",
+    "grills": "Dalla griglia",
+    "seafood": "Dal Nilo e dal mare",
+    "desserts": "Dolci",
+    "drinks": "Bevande"
+  },
+  "dish": {
+    "addToFavourites": "Tienilo a mente",
+    "viewDetails": "Solleva la cloche",
+    "addToFeast": "Inizia il banchetto",
+    "removeFromFeast": "Rimanda in cucina",
+    "inFeast": "Sulla tua tavola",
+    "calories": "kcal",
+    "protein": "Proteine",
+    "carbs": "Carboidrati",
+    "fat": "Grassi",
+    "fiber": "Fibre",
+    "sodium": "Sodio",
+    "nutrition": "Valori nutrizionali (per porzione)",
+    "allergens": "Contiene allergeni",
+    "noAllergens": "Nessun allergene principale",
+    "spiceLevel": "Piccantezza",
+    "prepTime": "Preparazione",
+    "minutes": "min",
+    "chefNote": "Nota dello chef",
+    "ingredients": "Ingredienti",
+    "readStory": "Leggi la storia",
+    "price": "EGP"
+  },
+  "allergens": {
+    "gluten": "Glutine",
+    "dairy": "Latticini",
+    "eggs": "Uova",
+    "nuts": "Frutta a guscio",
+    "sesame": "Sesamo",
+    "soy": "Soia",
+    "fish": "Pesce",
+    "shellfish": "Crostacei",
+    "mustard": "Senape"
+  },
+  "tags": {
+    "vegetarian": "Vegetariano",
+    "vegan": "Vegano",
+    "halal": "Halal",
+    "spicy": "Piccante",
+    "chef_pick": "Scelta dello chef",
+    "gluten_free": "Senza glutine"
+  },
+  "moods": {
+    "title": "Come ti senti adesso?",
+    "light": "Qualcosa di leggero",
+    "spicy": "Festival delle spezie",
+    "sweet": "Voglia di dolce",
+    "classic": "Egitto classico",
+    "quick": "Ho fretta",
+    "protein": "Piatto della forza"
+  },
+  "story": {
+    "title": "La Storia",
+    "close": "Chiudi il papiro",
+    "noStory": "Una storia ancora da raccontare — presto.",
+    "discover": "Tocca per scoprire l’origine"
+  },
+  "feast": {
+    "title": "Il tuo Banchetto",
+    "empty": "Il lino è piegato, le candele accese — la tavola attende il suo primo piatto.",
+    "total": "Conto",
+    "items": "piatti",
+    "calories": "Calorie totali",
+    "clear": "Apparecchia di nuovo",
+    "callServer": "Chiudere il conto",
+    "summary": "Tocca un piatto per rimandarlo in cucina"
+  },
+  "journey": {
+    "title": "Il Viaggio dell’Ingrediente",
+    "from": "Da"
+  },
+  "pairing": {
+    "header": "Da provare assolutamente con",
+    "whisper": "Antica saggezza egiziana — lo chef l’ha scelto per voi."
+  },
+  "ai": {
+    "title": "Anubis — La tua guida del menù",
+    "subtitle": "Dimmi cosa desideri e sceglierò il piatto perfetto.",
+    "placeholder": "es. «Qualcosa di leggero, senza latticini, non piccante»",
+    "send": "Chiedi",
+    "thinking": "Anubis consulta gli chef…",
+    "errorGeneric": "L’oracolo tace — riprova.",
+    "errorNoKey": "AI non configurata. Aggiungi ANTHROPIC_API_KEY in .env.local.",
+    "quickPrompts": {
+      "vegan": "Sono vegano",
+      "light": "Qualcosa di leggero",
+      "spicy": "Sorprendimi con qualcosa di piccante",
+      "traditional": "Il piatto egiziano più tradizionale"
+    },
+    "suggestion": "Anubis suggerisce"
+  },
+  "filters": {
+    "all": "Tutto",
+    "filters": "Filtri",
+    "diet": "Dieta",
+    "allergensExclude": "Escludi allergeni",
+    "clear": "Cancella",
+    "apply": "Applica"
+  }
+}
